@@ -27,7 +27,11 @@
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<deysilinconl@gmail.co>" target="_blank" />
 
 </a>
-
+  
+  
+![Snake animation](https://github.com/rafaballerini/DeysiLopes/blob/output/github-contribution-grid-snake.svg)
+  
+  
 </div>
 
 <!---
