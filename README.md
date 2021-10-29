@@ -16,23 +16,31 @@
 
 ### 📫 How to reach me 
 <div>
-<a href="https://www.linkedin.com/in/<deysilopes21>" alt="linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/deysilopes21" alt="linkedin" target="_blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 </a>
 
 <a href="mailto:<deysilinconl@gmail.com>" alt="gmail" target="_blank">
 
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<deysilinconl@gmail.co>" target="_blank" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 
 </a>
-  
-  
-![Snake animation](https://github.com/rafaballerini/DeysiLopes/blob/output/github-contribution-grid-snake.svg)
-  
-  
+  <a href="https://www.instagram.com/deysii_lps/" alt="instagram" target="_blank">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+
+</a>
+
+<a href="https://t.me/ladyprimm" alt="telegram" target="_blank">
+
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/>
+
+</a>
 </div>
+
+![Snake animation](https://github.com/DeysiLopes/DeysiLopes/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 DeysiLopes/DeysiLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
