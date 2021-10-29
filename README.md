@@ -9,12 +9,25 @@
 ![Deysi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeysiLopes&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeysiLopes&layout=compact&theme=radical)](https://github.com/DeysiLopes/github-readme-stats)
+
+
+
 ### 📫 How to reach me 
 <a href="https://www.linkedin.com/in/<deysilopes21>" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
 </a>
+
+<a href="mailto:<deysilinconl@gmail.com>" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<deysilinconl@gmail.co>" />
+
+</a>
+
+</a>
+
 <!---
 DeysiLopes/DeysiLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
