@@ -1,9 +1,8 @@
-![capaGithub](capaGithub.gif)
 
 # 👋 Hi, I’m Deysi
 - 👀 I’m interested in sci fi movies/books and of course coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects that can make a difference in the world besides being able to improve my skills as a developer
+- 💞️ I’m looking to collaborate on projects that can make a difference in the world besides being able to improve my skills as a developer <br>
 
 
 ### 💼 Stacks
