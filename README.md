@@ -56,8 +56,6 @@
 
 
 
-
-
 ![Snake animation](https://github.com/DeysiLopes/DeysiLopes/blob/output/github-contribution-grid-snake.svg)
 
 <!---
