@@ -1,8 +1,8 @@
 
 # 👋 Hi, I’m Deysi
 - 👀 I’m interested in sci fi movies/books and of course coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects that can make a difference in the world besides being able to improve my skills as a developer <br>
+- 🌱 I’m currently learning back-end development
+- 💞️ I’m looking to collaborate on projects that can make a difference in the world besides being able to improve my skills as a develoaper <br>
 
  ### 💼 Stacks
 <img align="left" alt="Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
