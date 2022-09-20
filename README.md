@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Deysi
+#  Hi, I’m Deysi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 - 👀 I’m interested in sci fi movies/books and of course coding
 - 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on projects that can make a difference in the world besides being able to improve my skills as a develoaper <br>
