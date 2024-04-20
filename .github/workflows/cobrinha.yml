@@ -10,17 +10,25 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Clone Repository
+        uses: actions/checkout@v2
+      
+      - name: Install Python
+        uses: actions/setup-python@v2
         with:
-          github_user_name: DeysiLopes
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install githubcontributions
+
+      - name: Generate GitHub-like Contribution Graph
+        run: githubcontributions --username DeysiLopes --output dist/github-contribution-grid-snake.svg
 
       - name: Set Environment Variables
         run: echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
 
-      - uses: crazy-max/ghaction-github-pages@v4.0.0
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
