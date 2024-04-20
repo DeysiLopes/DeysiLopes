@@ -19,7 +19,8 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install githubcontributions
+        run: |
+          pip install githubcontributions
 
       - name: Generate GitHub-like Contribution Graph
         run: githubcontributions --username DeysiLopes --output dist/github-contribution-grid-snake.svg
